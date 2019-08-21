@@ -1,5 +1,6 @@
 {
-  "name": "mxavdodmjpn.angular",
+  "deploy": "gh-pages -d dist",
+    "name": "mxavdodmjpn.angular",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
